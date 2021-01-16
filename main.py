@@ -18,4 +18,4 @@ def main():
     client.run(open('token.txt').read())
 
 
-main(open('token.txt').read())
+main()
